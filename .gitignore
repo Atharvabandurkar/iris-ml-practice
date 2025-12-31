@@ -1,0 +1,9 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / Anaconda
+anaconda_projects/
+
+# Python
+__pycache__/
+*.pyc
